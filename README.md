@@ -1,3 +1,5 @@
+[Local setup and environment recovery](SETUP.md)
+
 📚 AI PDF Study Assistant
 
 Live Demo: https://saas-eta-three.vercel.app
